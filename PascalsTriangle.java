@@ -31,5 +31,12 @@ public class PascalsTriangle {
             }
             System.out.println();
         }
+        System.out.println("""
+                Expected Result for 5 rows:
+                1\s
+                1 1\s
+                1 2 1\s
+                1 3 3 1\s
+                1 4 6 4 1\s""");
     }
 }
